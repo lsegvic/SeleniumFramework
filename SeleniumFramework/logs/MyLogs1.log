@@ -1,0 +1,25 @@
+[INFO ] 2019-02-27 12:04:13.018 [main] Log4JDemo - This is info message
+[ERROR] 2019-02-27 12:04:13.021 [main] Log4JDemo - This is an error message
+[WARN ] 2019-02-27 12:04:13.021 [main] Log4JDemo - This is an warning message
+[FATAL] 2019-02-27 12:04:13.022 [main] Log4JDemo - This is an fatal message
+[INFO ] 2019-02-27 12:05:54.265 [main] Log4JDemo - This is info message
+[ERROR] 2019-02-27 12:05:54.268 [main] Log4JDemo - This is an error message
+[WARN ] 2019-02-27 12:05:54.268 [main] Log4JDemo - This is an warning message
+[FATAL] 2019-02-27 12:05:54.268 [main] Log4JDemo - This is an fatal message
+[INFO ] 2019-02-27 12:06:42.596 [main] Log4JDemo - This is info message
+[ERROR] 2019-02-27 12:06:42.599 [main] Log4JDemo - This is an error message
+[WARN ] 2019-02-27 12:06:42.607 [main] Log4JDemo - This is an warning message
+[FATAL] 2019-02-27 12:06:42.607 [main] Log4JDemo - This is an fatal message
+[INFO ] 2019-02-27 12:07:14.233 [main] Log4JDemo - This is info message
+[ERROR] 2019-02-27 12:07:14.237 [main] Log4JDemo - This is an error message
+[WARN ] 2019-02-27 12:07:14.237 [main] Log4JDemo - This is an warning message
+[FATAL] 2019-02-27 12:07:14.237 [main] Log4JDemo - This is an fatal message
+[INFO ] 2019-02-27 12:08:00.002 [main] Log4JDemo - This is info message
+[ERROR] 2019-02-27 12:08:00.008 [main] Log4JDemo - This is an error message
+[WARN ] 2019-02-27 12:08:00.009 [main] Log4JDemo - This is an warning message
+[FATAL] 2019-02-27 12:08:00.009 [main] Log4JDemo - This is an fatal message
+[TRACE] 2019-02-27 12:08:54.625 [main] Log4JDemo - This is trace message
+[INFO ] 2019-02-27 12:08:54.628 [main] Log4JDemo - This is info message
+[ERROR] 2019-02-27 12:08:54.628 [main] Log4JDemo - This is an error message
+[WARN ] 2019-02-27 12:08:54.628 [main] Log4JDemo - This is an warning message
+[FATAL] 2019-02-27 12:08:54.628 [main] Log4JDemo - This is an fatal message

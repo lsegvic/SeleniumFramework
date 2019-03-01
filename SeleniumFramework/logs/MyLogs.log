@@ -1,0 +1,5 @@
+[TRACE] 2019-02-27 12:05:10.513 [main] Log4JDemo - This is trace message
+[INFO ] 2019-02-27 12:05:10.516 [main] Log4JDemo - This is info message
+[ERROR] 2019-02-27 12:05:10.517 [main] Log4JDemo - This is an error message
+[WARN ] 2019-02-27 12:05:10.517 [main] Log4JDemo - This is an warning message
+[FATAL] 2019-02-27 12:05:10.517 [main] Log4JDemo - This is an fatal message
